@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-# As a [ xxx ] 
-# I need [ some fuction ]
-# So that [ some value ]
+#As a [xxx] 
+#I need [some fuction]
+#So that [some value]
 
 #details
 *
 *
 
 ´´´  _Gherkin syntax_
-# given [some conditions]
-# when [event happen]
+#given [some conditions]
+#when [event happen]
 #so then [outcome]
 ```
